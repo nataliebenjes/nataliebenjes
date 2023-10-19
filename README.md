@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Natalie Benjes. Here is some info about what I do:
-https://github-readme-stats.vercel.app/api/top-langs/?username={nataliebenjes}&theme=blue-green
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={nataliebenjes}&theme=blue-green" />
 
 ## :hammer_and_wrench: Languages and Tools :
 <p>
@@ -12,15 +12,16 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={nataliebenjes}&t
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## Currently Learning :
+<p>
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
+</p>
 <!--
 
 
