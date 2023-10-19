@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Natalie Benjes. Here is some info about what I do:
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliebenjes&theme=blue-green)
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools ✔:
 <p>
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-## Currently Learning :
+## 👩🏻‍🏫 Currently Learning 📚:
 <p>
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
