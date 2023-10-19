@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 </p>
 <!--
 
