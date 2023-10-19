@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Natalie Benjes. Here is some info about what I do:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={nataliebenjes}&theme=blue-green)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliebenjes&theme=blue-green)]
 
 ## :hammer_and_wrench: Languages and Tools :
 <p>
